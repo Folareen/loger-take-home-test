@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.segoe-ui {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.scrape-input-wrapper {
+  background-image: linear-gradient(to bottom, rgba(20, 184, 184, 0.3), rgba(117, 117, 240, 0.3));
+}

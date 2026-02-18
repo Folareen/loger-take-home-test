@@ -1,0 +1,25 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="52" height="52" rx="16" fill="url(#paint0_linear_1_1395)"/>
+<g filter="url(#filter0_d_1_1395)">
+<rect x="8" y="8" width="36" height="36" rx="12" fill="white" shape-rendering="crispEdges"/>
+<path d="M19.3333 26.8334C19.6041 28.9434 20.9008 30.8175 22.6666 31.8334M32.6666 25.1667C32.4628 23.7002 31.7825 22.3414 30.7305 21.2996C29.6785 20.2578 28.3131 19.5908 26.8447 19.4013C25.3763 19.2119 23.8863 19.5104 22.6043 20.2511C21.3223 20.9917 20.3194 22.1333 19.75 23.5M19.3333 20.1667V23.5H22.6666" stroke="#001414" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.8811 32.3749L29.1567 34.0993C29.0043 34.2516 28.7977 34.3371 28.5822 34.3371C28.3668 34.3371 28.1602 34.2516 28.0078 34.0993L26.2829 32.3749C25.8282 31.9202 25.5186 31.3409 25.3932 30.7102C25.2677 30.0795 25.3321 29.4257 25.5782 28.8316C25.8243 28.2376 26.241 27.7298 26.7757 27.3725C27.3104 27.0153 27.939 26.8246 28.582 26.8246C29.2251 26.8246 29.8537 27.0153 30.3883 27.3725C30.923 27.7298 31.3398 28.2376 31.5858 28.8316C31.8319 29.4257 31.8963 30.0795 31.7709 30.7102C31.6455 31.3409 31.3358 31.9202 30.8811 32.3749Z" stroke="#001414" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28.6" cy="30" r="0.5" stroke="#001414"/>
+</g>
+<defs>
+<filter id="filter0_d_1_1395" x="4" y="8" width="44" height="44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1395"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1395" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_1395" x1="0" y1="0" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="#F8981D"/>
+</linearGradient>
+</defs>
+</svg>
